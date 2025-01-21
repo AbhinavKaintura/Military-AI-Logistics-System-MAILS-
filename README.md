@@ -1,6 +1,12 @@
 # Military AI Logistics System (MAILS)
 ## A Next-Generation Military Planning and Analysis Platform
 
+###Theme
+#AI-Powered Military Logistics and Threat Analysis System (MAILS)
+
+###Problem Statement
+#Military operations face critical challenges in logistics optimization and threat assessment, leading to inefficient resource allocation and increased operational risks.
+
 ### 1. Proposed Solution
 
 MAILS is an integrated artificial intelligence platform that revolutionizes military logistics and threat assessment through three core components:

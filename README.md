@@ -10,6 +10,7 @@
 ### 1. Proposed Solution
 
 MAILS is an integrated artificial intelligence platform that revolutionizes military logistics and threat assessment through three core components:
+![mails](https://github.com/user-attachments/assets/bcf4d2e7-7a60-495b-92c3-6e3528653c54)
 
 #### a) Intelligent Mission Planning System
 - Real-time optimization of supply chain and logistics operations
